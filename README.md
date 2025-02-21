@@ -19,7 +19,7 @@ Whenever there is a push to the `master` branch, the workflow triggers a build j
 - Node.js and npm should be installed.
 
 ### Live
-Access the live ToDo app [here](https://wachira-samuel.github.io/To-Do/).
+Access the live ToDo app [here](https://gayan-98.github.io/To-Do/).
 
 ### Installation
 
